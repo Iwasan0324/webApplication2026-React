@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Iwasan0324/webApplication2026-React#readme",
   "dependencies": {
+    "@google/genai": "^3.6.1",
     "dotenv": "^18.0.10",
     "ejs": "^7.0.1",
     "express": "^5.2.1",
